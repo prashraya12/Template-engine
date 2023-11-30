@@ -1,0 +1,11 @@
+Template engine is package that allows to write js in HTML file 
+
+
+for example ejs , pug
+
+
+why  we need it?
+
+for sending data from backend to front end
+
+
